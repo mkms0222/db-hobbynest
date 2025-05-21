@@ -43,11 +43,11 @@
 
 ## 사용자 인터랙션 시나리오
 
-![사용자 인터랙션 시나리오](https://i.ibb.co/2Zz9gzz/ux-flow.png)
+![Image](https://github.com/user-attachments/assets/626514e9-a121-4a30-ace1-b53a801f1cd0)
 
 ## 서비스 아키텍처
 
-![서비스 아키텍처](https://i.ibb.co/w06bbz3/architecture.png)
+![Image](https://github.com/user-attachments/assets/171ab6ba-8bfb-4760-ae18-fb523a395c5a)
 
 ## 🧪 개발 환경
 
